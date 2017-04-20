@@ -1,0 +1,5 @@
+STT,ID,Name,User_Name,Password,Address,Phone,BirthDay,Gender(FeMale: 1; Male: 0)
+1,123,ADMIN,admin,admin,Ha Noi,'019234567,12/5/1990,1
+2,124,Nguyen van B,admin1,admin1,Ha Noi,'019232327,12/5/1990,1
+3,125,Nguyen Trong Ha,TrongHa,123457,Thanh Ha - Hai Duong,'01649044848,15/10/1998,0
+4,126,Nguyen Thi Huyen,Huyen12,123321,Thanh Ha - Hai Duong,'01233214567,1/3/2008,1
